@@ -1,0 +1,3 @@
+total 0
+-rw-rw-r-- 1 davin davin 0 févr.  7 12:04 file.txt
+-rwxr-x--x 1 davin davin 0 févr.  7 11:45 test
